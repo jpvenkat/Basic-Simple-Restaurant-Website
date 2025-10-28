@@ -1,0 +1,125 @@
+* {
+    font-family: "Quicksand", sans-serif;
+}
+.section-title{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.menu-section-1{
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 1px;
+    padding-right: 1px;
+    border-radius: 10px;
+    display: inline-block;
+    border: black 2px solid;
+    width: 100%;
+}
+.menu-section-1 img{
+    border-radius: 10px;
+    width: 280px;
+    height: 180px;
+}
+.menu-section-2{
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 1px;
+    padding-right: 1px;
+    border-radius: 10px;
+    display: inline-block;
+    border: black 2px solid;
+    width: 100%;
+}
+.menu-section-2 img{
+    border-radius: 10px;
+    width: 280px;
+    height: 180px;
+}
+.menu-section-3{
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 1px;
+    padding-right: 1px;
+    border-radius: 10px;
+    display: inline-block;
+    border: black 2px solid;
+    width: 100%;
+}
+.menu-section-3 img{
+    border-radius: 10px;
+    width: 280px;
+    height: 180px;
+}
+.menu-section-4{
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 1px;
+    padding-right: 1px;
+    border-radius: 10px;
+    display: inline-block;
+    border: black 2px solid;
+    width: 100%;
+}
+.menu-section-4 img{
+    border-radius: 10px;
+    width: 280px;
+    height: 180px;
+}
+.menu-title{
+    display: flex;
+    background-color: white;
+    color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.order-now{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.order-now form{
+    text-align: left;
+    display: inline-block;
+}
+.order-button input[type="submit"]{
+    background-color: aliceblue;
+    color: black;
+    padding: 10px 120px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
